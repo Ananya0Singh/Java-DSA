@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ananya0Singh/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ananya0Singh/Java-DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ananya0Singh/Java-DSA/tree/master/0704-binary-search) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya0Singh/Java-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -18,5 +19,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ananya0Singh/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Ananya0Singh/Java-DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
